@@ -79,7 +79,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2019-08-12T06:04:00Z</date>
+	<date>2019-08-12T10:28:00Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -187,7 +187,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>86</real>
 		<key>mainWindowFrame</key>
-		<string>0 55 1440 822 0 0 1440 877 </string>
+		<string>240 145 1440 822 0 0 1920 1057 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -267,7 +267,7 @@
 	<key>monotypeProjectID</key>
 	<string>4342835A-ACE8-4B70-9893-616C270E6D73-45123-00010434E1A423F2</string>
 	<key>oidCounter</key>
-	<integer>65</integer>
+	<integer>66</integer>
 	<key>pageTitle</key>
 	<string></string>
 	<key>resourcesInfo</key>
@@ -475,17 +475,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.5</real>
+							<real>1.7333333492279053</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
 					<string>{779, 328}</string>
-					<key>currentSymbolElementPath</key>
-					<array>
-						<string>41</string>
-					</array>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -576,12 +572,12 @@
 	<key>symbols</key>
 	<array>
 		<dict>
+			<key>currentGroupElement</key>
+			<string>23</string>
 			<key>documentIdentifier</key>
-			<string>26D68FDC-F214-4D88-BA01-962977818E9A-28176-000153F01E360553</string>
+			<string>5958E320-C8C8-401D-BD1B-A330857542F7-28176-000156A1F9EEF9E6</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>41</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -1287,9 +1283,7 @@
 					</array>
 				</dict>
 				<key>expandedElementOids</key>
-				<array>
-					<string>23</string>
-				</array>
+				<array/>
 				<key>isPersistentSymbol</key>
 				<false/>
 				<key>name</key>
@@ -1549,7 +1543,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>73F09173-8F5F-4C8D-9902-6417F7D1BB58-28176-000153EFEF3EE629</string>
+									<string>90936B17-49FC-4767-A1B6-77ABE829D341-28176-000156A1DE8BE626</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -1670,7 +1664,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>73F09173-8F5F-4C8D-9902-6417F7D1BB58-28176-000153EFEF3EE629</string>
+									<string>90936B17-49FC-4767-A1B6-77ABE829D341-28176-000156A1DE8BE626</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -1791,7 +1785,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>73F09173-8F5F-4C8D-9902-6417F7D1BB58-28176-000153EFEF3EE629</string>
+									<string>90936B17-49FC-4767-A1B6-77ABE829D341-28176-000156A1DE8BE626</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -1887,7 +1881,7 @@
 								<key>uuid</key>
 								<string>22001090-A74F-451B-9659-B7F35B9AFBDA-45123-000104C22615271B</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -1961,7 +1955,7 @@
 								<key>uuid</key>
 								<string>7AFA82D8-630C-4573-AF1A-8456FDF172AF-45123-000104B86AC75C76</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>4</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2035,7 +2029,7 @@
 								<key>uuid</key>
 								<string>9839A548-8633-48FF-AB29-A5BC79888D23-45123-000104CE75F14345</string>
 								<key>zIndex</key>
-								<integer>4</integer>
+								<integer>5</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2090,7 +2084,7 @@
 								<key>uuid</key>
 								<string>81EA5FF4-C163-4B5D-8BF4-7A6F835039E9-45123-000104F66A8418FF</string>
 								<key>zIndex</key>
-								<integer>5</integer>
+								<integer>6</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2164,7 +2158,7 @@
 								<key>uuid</key>
 								<string>9BD2804F-A871-4055-ABC5-72AABFC2FFE0-45123-0001057CAB4CA058</string>
 								<key>zIndex</key>
-								<integer>6</integer>
+								<integer>8</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2238,7 +2232,7 @@
 								<key>uuid</key>
 								<string>CC518D23-C8BE-4647-998C-05CE2D5B7C81-45123-00010578AB4C153C</string>
 								<key>zIndex</key>
-								<integer>7</integer>
+								<integer>9</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2312,7 +2306,7 @@
 								<key>uuid</key>
 								<string>B40221D4-96B7-4AA3-8F64-3940AD438C7A-45123-000105315C6ADBB1</string>
 								<key>zIndex</key>
-								<integer>8</integer>
+								<integer>10</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2386,7 +2380,7 @@
 								<key>uuid</key>
 								<string>B6535BEC-2B65-4AB5-810E-B4F957904636-45123-0001057F9A826248</string>
 								<key>zIndex</key>
-								<integer>9</integer>
+								<integer>11</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2460,7 +2454,7 @@
 								<key>uuid</key>
 								<string>BF798F9D-576F-47F3-AB9D-13D070D23583-45123-0001057D29BCC54D</string>
 								<key>zIndex</key>
-								<integer>10</integer>
+								<integer>13</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2534,7 +2528,7 @@
 								<key>uuid</key>
 								<string>9EB8ECE8-98CB-4724-9045-571F70F6F5E3-45123-0001057B31C750CA</string>
 								<key>zIndex</key>
-								<integer>11</integer>
+								<integer>14</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2608,7 +2602,7 @@
 								<key>uuid</key>
 								<string>21F86F68-DE4F-4192-8B24-F07FB5192092-45123-00010531D74F915D</string>
 								<key>zIndex</key>
-								<integer>12</integer>
+								<integer>15</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2682,7 +2676,7 @@
 								<key>uuid</key>
 								<string>EFD0A212-86A9-4A10-95CB-F85936CF0393-45123-00010580247A2434</string>
 								<key>zIndex</key>
-								<integer>13</integer>
+								<integer>16</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2737,7 +2731,7 @@
 								<key>uuid</key>
 								<string>27CD339D-5ABD-45A3-9863-E639137AF001-45123-0001057DB74BEB2A</string>
 								<key>zIndex</key>
-								<integer>14</integer>
+								<integer>18</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2792,7 +2786,7 @@
 								<key>uuid</key>
 								<string>B55A168F-3EEE-4388-AD85-6FF4129645B2-45123-0001057B9865F9E5</string>
 								<key>zIndex</key>
-								<integer>15</integer>
+								<integer>19</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2847,7 +2841,7 @@
 								<key>uuid</key>
 								<string>9D47B6FE-DD19-455A-B8D2-10E7CB2397FB-45123-00010532243114BA</string>
 								<key>zIndex</key>
-								<integer>16</integer>
+								<integer>20</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2902,7 +2896,7 @@
 								<key>uuid</key>
 								<string>E1E1BD12-FCD8-49B9-A6B8-26B42642AF61-45123-00010580A2E4C806</string>
 								<key>zIndex</key>
-								<integer>17</integer>
+								<integer>21</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -2952,7 +2946,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>1C1661D4-93F2-447B-B8A0-1DD2A6EDBED4-28176-000153EFEF4D67ED</string>
+									<string>5C5653EA-7F5F-4030-AD90-F974955C6606-28176-000156A1DE928F5E</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -3024,7 +3018,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>1C1661D4-93F2-447B-B8A0-1DD2A6EDBED4-28176-000153EFEF4D67ED</string>
+									<string>5C5653EA-7F5F-4030-AD90-F974955C6606-28176-000156A1DE928F5E</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -3096,7 +3090,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>1C1661D4-93F2-447B-B8A0-1DD2A6EDBED4-28176-000153EFEF4D67ED</string>
+									<string>5C5653EA-7F5F-4030-AD90-F974955C6606-28176-000156A1DE928F5E</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -3161,7 +3155,7 @@
 								<key>uuid</key>
 								<string>A1FB5F77-0BAA-49F3-847C-C503EB07F0FD-45123-000107D030418CF0</string>
 								<key>zIndex</key>
-								<integer>18</integer>
+								<integer>22</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -3184,7 +3178,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>26D68FDC-F214-4D88-BA01-962977818E9A-28176-000153F01E360553</string>
+			<string>5958E320-C8C8-401D-BD1B-A330857542F7-28176-000156A1F9EEF9E6</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>42</string>
@@ -3511,7 +3505,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>26D68FDC-F214-4D88-BA01-962977818E9A-28176-000153F01E360553</string>
+			<string>5958E320-C8C8-401D-BD1B-A330857542F7-28176-000156A1F9EEF9E6</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>56</string>
