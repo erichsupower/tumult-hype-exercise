@@ -9,7 +9,7 @@
 1. Click the Record button to turn on recording
 2. 單擊 `Record` 按鈕開啟錄製
    
-   ![printscreen](/images/7.png)
+   ![printscreen](images/7.png)
 
 3. 選擇要設置動畫的元素
 4. 將時間光標向右移動並停在3秒刻度標記處
@@ -21,7 +21,7 @@
 
 製作補間動畫時，可指定時間區段。
 
-![printscreen](/images/8.png)
+![printscreen](images/8.png)
 
 
 
@@ -29,7 +29,7 @@
 
 新增以下 Timeline Action。
 
-![printscreen](/images/9.png)
+![printscreen](images/9.png)
 
 
 
@@ -37,7 +37,7 @@
 
 在 `Document` 面板中，勾選 `Make background transparent` 設定：
 
-![printscreen](/images/2.png)
+![printscreen](images/2.png)
 
 
 
@@ -45,7 +45,7 @@
 
 在 `Scene` 面板中，點擊 `Add New Layout...`，新增 Responsive Layout：
 
-![printscreen](/images/4.png)
+![printscreen](images/4.png)
 
 > [Demo](./src/rwd/rwd.html)
 >
@@ -57,11 +57,11 @@
 
 **step 1**：在左側面板中，選擇想要調整的 Layout
 
-![printscreen](/images/5.png)
+![printscreen](images/5.png)
 
 **step 2**：在 `Scene` 面板中，調整的 Breakpoint 的數值：
 
-![printscreen](/images/6.png)
+![printscreen](images/6.png)
 
 
 
@@ -69,7 +69,7 @@
 
 在 `Scene` 面板中，勾選 `scale` 設定：
 
-![printscreen](/images/3.png)
+![printscreen](images/3.png)
 
 > [Demo](./src/fullscreen/fullscreen.html)
 > 
@@ -95,7 +95,7 @@
 
 - **cache.manifest** — 列舉文檔的資源以進行離線緩存。僅在 `Document inspector` 面板中啟用 `Create Offline Application Cache` 選項時才會出現。
 
-    ![Document inspector](/images/1.png)
+    ![Document inspector](images/1.png)
 
 - **####-restorable.plist** — 文檔恢復文件，可用於從導出的內容中恢復原始的 Hype 文檔。有關恢復的詳細信息，請參閱[Document Recovery](https://tumult.com/hype/documentation/#document-recovery) 部分。
 

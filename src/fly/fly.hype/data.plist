@@ -53,8 +53,8 @@
 	<dict/>
 	<key>displayedAttributes</key>
 	<array>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>RotationAngleZ</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>648</string>
@@ -79,7 +79,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2019-08-07T08:00:40Z</date>
+	<date>2019-08-12T06:04:00Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -87,7 +87,7 @@
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 0}, {1920, 980}}</string>
+			<string>{{0, 0}, {1440, 800}}</string>
 			<key>identifier</key>
 			<string>container 1191</string>
 			<key>isCustomizableViewContainer</key>
@@ -100,7 +100,7 @@
 			<array>
 				<dict>
 					<key>frame</key>
-					<string>{{0, 0}, {1649, 980}}</string>
+					<string>{{0, 0}, {1169, 800}}</string>
 					<key>identifier</key>
 					<string>container 821</string>
 					<key>isCustomizableViewContainer</key>
@@ -113,7 +113,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{0, 0}, {1649, 460}}</string>
+							<string>{{0, 0}, {1169, 306}}</string>
 							<key>identifier</key>
 							<string>container 820</string>
 							<key>isCustomizableViewContainer</key>
@@ -126,7 +126,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{0, 0}, {1649, 460}}</string>
+									<string>{{0, 0}, {1169, 306}}</string>
 									<key>identifier</key>
 									<string>timelineCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
@@ -136,7 +136,7 @@
 						</dict>
 						<dict>
 							<key>frame</key>
-							<string>{{0, 461}, {1649, 519}}</string>
+							<string>{{0, 307}, {1169, 493}}</string>
 							<key>identifier</key>
 							<string>container 819</string>
 							<key>isCustomizableViewContainer</key>
@@ -149,7 +149,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{0, 461}, {1649, 519}}</string>
+									<string>{{0, 307}, {1169, 493}}</string>
 									<key>identifier</key>
 									<string>sceneEditorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
@@ -161,7 +161,7 @@
 				</dict>
 				<dict>
 					<key>frame</key>
-					<string>{{1650, 0}, {270, 980}}</string>
+					<string>{{1170, 0}, {270, 800}}</string>
 					<key>identifier</key>
 					<string>container 1192</string>
 					<key>isCustomizableViewContainer</key>
@@ -174,7 +174,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{1650, 0}, {270, 980}}</string>
+							<string>{{1170, 0}, {270, 800}}</string>
 							<key>identifier</key>
 							<string>inspectorCustomizableContainer</string>
 							<key>isCustomizableViewContainer</key>
@@ -185,9 +185,9 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
-		<real>161</real>
+		<real>86</real>
 		<key>mainWindowFrame</key>
-		<string>0 55 1920 1002 0 0 1920 1057 </string>
+		<string>0 55 1440 822 0 0 1440 877 </string>
 		<key>openTabs</key>
 		<array/>
 		<key>selectedTabIndex</key>
@@ -475,13 +475,17 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>0.5</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1099, 346}</string>
+					<string>{779, 328}</string>
+					<key>currentSymbolElementPath</key>
+					<array>
+						<string>41</string>
+					</array>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -573,9 +577,11 @@
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7EE8DABB-8CA4-4B18-A6BB-F5DBF054F7AD-7853-0000AFDFB8E37423</string>
+			<string>26D68FDC-F214-4D88-BA01-962977818E9A-28176-000153F01E360553</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>41</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -839,6 +845,12 @@
 							<string>Left</string>
 							<key>objectValue</key>
 							<string>70px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1537,7 +1549,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>DA0CE696-CA11-4EBD-8E62-B058E6E1A20D-7853-0000AFDF9A18D93F</string>
+									<string>73F09173-8F5F-4C8D-9902-6417F7D1BB58-28176-000153EFEF3EE629</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -1658,7 +1670,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>DA0CE696-CA11-4EBD-8E62-B058E6E1A20D-7853-0000AFDF9A18D93F</string>
+									<string>73F09173-8F5F-4C8D-9902-6417F7D1BB58-28176-000153EFEF3EE629</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -1779,7 +1791,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>DA0CE696-CA11-4EBD-8E62-B058E6E1A20D-7853-0000AFDF9A18D93F</string>
+									<string>73F09173-8F5F-4C8D-9902-6417F7D1BB58-28176-000153EFEF3EE629</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -2940,7 +2952,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>3577F43B-A70F-4B8C-9EA6-14B77E8E1ED9-7853-0000AFDF9A29F288</string>
+									<string>1C1661D4-93F2-447B-B8A0-1DD2A6EDBED4-28176-000153EFEF4D67ED</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -3012,7 +3024,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>3577F43B-A70F-4B8C-9EA6-14B77E8E1ED9-7853-0000AFDF9A29F288</string>
+									<string>1C1661D4-93F2-447B-B8A0-1DD2A6EDBED4-28176-000153EFEF4D67ED</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -3084,7 +3096,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>3577F43B-A70F-4B8C-9EA6-14B77E8E1ED9-7853-0000AFDF9A29F288</string>
+									<string>1C1661D4-93F2-447B-B8A0-1DD2A6EDBED4-28176-000153EFEF4D67ED</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>23</string>
@@ -3172,7 +3184,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7EE8DABB-8CA4-4B18-A6BB-F5DBF054F7AD-7853-0000AFDFB8E37423</string>
+			<string>26D68FDC-F214-4D88-BA01-962977818E9A-28176-000153F01E360553</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>42</string>
@@ -3191,9 +3203,9 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>26.1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -3317,9 +3329,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>26.1px</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -3499,7 +3511,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>7EE8DABB-8CA4-4B18-A6BB-F5DBF054F7AD-7853-0000AFDFB8E37423</string>
+			<string>26D68FDC-F214-4D88-BA01-962977818E9A-28176-000153F01E360553</string>
 			<key>selectedObjects</key>
 			<array>
 				<string>56</string>
