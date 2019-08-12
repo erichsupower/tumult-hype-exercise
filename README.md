@@ -25,6 +25,14 @@
 
 
 
+## 循環播放
+
+新增以下 Timeline Action。
+
+![printscreen](/images/9.png)
+
+
+
 ## 設定 Document 透明背景
 
 在 `Document` 面板中，勾選 `Make background transparent` 設定：
