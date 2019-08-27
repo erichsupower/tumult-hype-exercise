@@ -1,0 +1,59 @@
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="752.84px" height="177.91px" viewBox="0 0 752.84 177.91" style="enable-background:new 0 0 752.84 177.91;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st2{mask:url(#SVGID_1_);fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+	.st4{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st5{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st6{mask:url(#SVGID_4_);fill:url(#SVGID_5_);}
+	.st7{fill:url(#SVGID_6_);}
+</style>
+<defs>
+</defs>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="752.84" height="177.91">
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="752.84" height="177.91" id="SVGID_1_">
+	<g class="st0">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0" y="0" width="752.84" height="177.91">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="752.84" height="177.91" id="SVGID_1_">
+			<g class="st1">
+			</g>
+		</mask>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="376.4204" y1="-3.2961" x2="376.4204" y2="110.587">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<polygon class="st2" points="752.84,40.23 752.84,177.91 0,177.91 0,98.73 5.25,98.73 5.25,48.63 36.27,48.63 36.27,74.16 
+			66.37,74.16 78.29,86.06 90.38,86.06 90.38,24.32 118.2,24.32 118.2,40.23 141.8,40.23 141.8,70.94 173.51,70.94 173.51,32.41 
+			198.54,32.41 198.54,48.62 211.55,48.62 222.81,37.36 235.62,37.36 235.62,0 271.46,0 271.46,55.44 308.09,55.44 308.09,68.8 
+			322.29,68.8 322.29,48.63 376.41,48.63 376.41,70.94 397.11,70.94 397.11,40.23 428.68,40.23 428.68,86.06 430.53,86.06 
+			430.53,24.32 458.34,24.32 458.34,40.23 481.94,40.23 481.94,70.94 513.64,70.94 513.64,32.41 538.67,32.41 538.67,48.62 
+			551.69,48.62 562.95,37.36 575.77,37.36 575.77,0 611.59,0 611.59,55.44 648.23,55.44 648.23,68.8 662.43,68.8 662.43,48.63 
+			690.92,48.63 690.92,70.94 737.23,70.94 737.23,40.23 		"/>
+	</g>
+</mask>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="376.4204" y1="-3.2961" x2="376.4204" y2="110.587">
+	<stop  offset="0" style="stop-color:#B1D9F9"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st3" points="752.84,40.23 752.84,177.91 0,177.91 0,98.73 5.25,98.73 5.25,48.63 36.27,48.63 36.27,74.16 
+	66.37,74.16 78.29,86.06 90.38,86.06 90.38,24.32 118.2,24.32 118.2,40.23 141.8,40.23 141.8,70.94 173.51,70.94 173.51,32.41 
+	198.54,32.41 198.54,48.62 211.55,48.62 222.81,37.36 235.62,37.36 235.62,0 271.46,0 271.46,55.44 308.09,55.44 308.09,68.8 
+	322.29,68.8 322.29,48.63 376.41,48.63 376.41,70.94 397.11,70.94 397.11,40.23 428.68,40.23 428.68,86.06 430.53,86.06 
+	430.53,24.32 458.34,24.32 458.34,40.23 481.94,40.23 481.94,70.94 513.64,70.94 513.64,32.41 538.67,32.41 538.67,48.62 
+	551.69,48.62 562.95,37.36 575.77,37.36 575.77,0 611.59,0 611.59,55.44 648.23,55.44 648.23,68.8 662.43,68.8 662.43,48.63 
+	690.92,48.63 690.92,70.94 737.23,70.94 737.23,40.23 "/>
+</svg>
